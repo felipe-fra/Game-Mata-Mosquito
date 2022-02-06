@@ -12,7 +12,7 @@
 
 # Sobre
 
-O projeto Game Mata Mosquito foi desenvolvido em curso para aprendizado e prática da linguagem Javascript, ele consiste em um game onde o objetivo é matar os mosquitos (clicar sobre os mosquitos) evitando que suas vidas disponíveis cheguem a zero antes antes que o tempo se esgote, ele também pode ser jogado em 3 níveis de dificuldade diferentes.
+O projeto Game Mata Mosquito foi desenvolvido em curso para aprendizado e prática da linguagem Javascript, ele consiste em um game onde o objetivo é matar os mosquitos (clicar sobre os mosquitos) evitando que suas vidas disponíveis cheguem a zero antes que o tempo se esgote, ele também pode ser jogado em 3 níveis de dificuldade diferentes.
 
 
 # Features
