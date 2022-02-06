@@ -13,16 +13,15 @@ O projeto Game Mata Mosquito foi desenvolvido em curso para aprendizado e práti
 
 # features
 
-[x] Identificação de redimensionamento da area do navegador para readequação da aplicação.
-[X] Criação de elementos HTML dinamicamente.
-[x] Contagem do tempo para tomada de decisão aplicação.
-[x] Alterações dinamicas de estilo via Javascrip.
-[x] Contagem e armazenamento de eventos de Mouse.
-[x] Uso do Web Storage.
+1. Identificação de redimensionamento da area do navegador para readequação da aplicação
+2. Criação de elementos HTML dinamicamente
+3. Contagem do tempo para tomada de decisão aplicação
+4. Alterações dinamicas de estilo via Javascrip
+5. Contagem e armazenamento de eventos de Mouse
+6. Uso do Web Storage
 
 
 # stacks 
-`teste`
--[html]
--[css]
--[Javascript]
+`HTML`
+`CSS`
+`Javascript`
