@@ -28,4 +28,5 @@ O projeto Game Mata Mosquito foi desenvolvido em curso para aprendizado e práti
 # Stacks 
 `HTML`
 `CSS`
+`Bootstrap`
 `Javascript`
